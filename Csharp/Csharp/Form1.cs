@@ -15,6 +15,10 @@ namespace Csharp
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text = "Всем на свете это ясно \n— Быть программером прекрасно!\nТы, программер, умный очень \n—Программируешь что хочешь!";
+            
         }
+
+        
     }
 }

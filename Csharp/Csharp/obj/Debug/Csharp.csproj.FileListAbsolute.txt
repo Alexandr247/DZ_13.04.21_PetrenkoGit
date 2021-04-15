@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.Form1.resources
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\Admin\Desktop\DZ_13.04.21_PetrenkoGit\Csharp\Csharp\obj\Debug\Csharp.pdb
