@@ -35,9 +35,9 @@ namespace Csharp
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(13, 13);
+            this.listBox1.Location = new System.Drawing.Point(14, 13);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(123, 108);
+            this.listBox1.Size = new System.Drawing.Size(775, 420);
             this.listBox1.TabIndex = 0;
             // 
             // Form1
